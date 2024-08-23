@@ -1,0 +1,25 @@
+Logical operaters are &&,||
+&& all conditions satisfied it will show positive result other wise it will show negative result
+|| any one condition satisfied 
+   
+   PRECEDENCE
+
+   BODMAS
+
+   B-->brackets             1priority
+   O-->     
+   D-->Division             3 priority
+   M-->Multiplication       4 priority
+   A-->Adition              5 priority
+   S-->substraction         6 priority
+
+   Named Functions 
+    syntax : let Name  = ()=>{}
+    example let onChange =()=>{
+        here we can write code
+    }
+    name is assigned for the Functions is called named Functions
+
+   here we can write the code whatever we want and call it anywhere in the programm
+   we can call it by whatever the we have gave with peranthesis and semicolon.
+    example : onChange();
